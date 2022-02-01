@@ -85,7 +85,7 @@ Code blocks, which we will see more often as we start writing functions, are den
 ### Deliverable Requirements:
 Using JavaScript and HTML, you’ll modify the code in your `index.html` file to create more table filters. In addition to the date filter you created in this module, you’ll add filters for the city, state, country, and shape, as shown in the following image:
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/UFOs/blob/main/Resources/Images/s1.png?raw=true)
+
 
 Using JavaScript, you’ll replace the handleClick() function in your app.js file with a new function that saves the element, value, and id of the filter that was changed. Then, you’ll create a new function to loop through the dataset and keep only the results that match the search criteria. The webpage will be updated with the search criteria after pressing "Enter".
 
@@ -189,7 +189,7 @@ function updateFilters() {
     let inputElement = d3.select(this);
 ````
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/UFOs/blob/main/Resources/Images/1.2.JPG?raw=true)
+
 
 
 
@@ -214,7 +214,7 @@ function updateFilters() {
     let inputID = inputElement.attr("id");
 ````
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/UFOs/blob/main/Resources/Images/1.3.JPG?raw=true)
+
 
 
 
@@ -241,7 +241,7 @@ function updateFilters() {
   }
 ````
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/UFOs/blob/main/Resources/Images/1.4.JPG?raw=true)
+
 
 
 
@@ -274,7 +274,7 @@ function updateFilters() {
   }
 ````
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/UFOs/blob/main/Resources/Images/1.5.JPG?raw=true)
+
 
 
 
@@ -363,7 +363,7 @@ function filterTable(obj) {
   buildTable(tableData);
 ````
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/UFOs/blob/main/Resources/Images/2.1.JPG?raw=true)
+
 
 
 
@@ -427,34 +427,7 @@ Let’s begin reviewing our HTML Filter and Table code.
           </div>
 ````
 
-From our Website (Project Example:) [`https://www.UFOs.gov`](https://emmanuelmartinezs.github.io/UFOs/). 
 
-
-![name-of-you-image](https://github.com/emmanuelmartinezs/UFOs/blob/main/Resources/Images/W1.JPG?raw=true)
-
-Need to visit FILTER SEARCH 
-
-![name-of-you-image](https://github.com/emmanuelmartinezs/UFOs/blob/main/Resources/Images/W2.JPG?raw=true)
-
-On filter criteria, you can search by "Shape" only if want, example: triangle
-
-![name-of-you-image](https://github.com/emmanuelmartinezs/UFOs/blob/main/Resources/Images/W3.JPG?raw=true)
-
-And click on "Filter Table" button,
-
-![name-of-you-image](https://github.com/emmanuelmartinezs/UFOs/blob/main/Resources/Images/W4.JPG?raw=true)
-
-Automatically your search criteria will appear in our dynamic table resource.  
-
-![name-of-you-image](https://github.com/emmanuelmartinezs/UFOs/blob/main/Resources/Images/W5.JPG?raw=true)
-
-And, if want to start a new search, just click on "Clear Table" button, and start a new search.
-
-![name-of-you-image](https://github.com/emmanuelmartinezs/UFOs/blob/main/Resources/Images/W6.JPG?raw=true)
-
-After clear table, you may see our default data, 
-
-![name-of-you-image](https://github.com/emmanuelmartinezs/UFOs/blob/main/Resources/Images/W7.JPG?raw=true)
 
 
 
