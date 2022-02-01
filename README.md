@@ -479,15 +479,10 @@ Including live testimonies were transcribed and published in the highly revealin
 
 
 
-# Deliverable 3 (EXTRA): 
-## UFOs IO Page on GitHub
-
-Hope you enjoy the site.
 
 
-> Image with `JavaScript` & `HTML` Code below.
 
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/UFOs/blob/main/Resources/Images/IO_Page.JPG?raw=true)
 
-##### JavaScript, Bootstrap, and UFOs Analysis Completed by Emmanuel Martinez
+
+
