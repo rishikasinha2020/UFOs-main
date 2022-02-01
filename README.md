@@ -166,7 +166,6 @@ Using JavaScript, you’ll replace the handleClick() function in your app.js fil
           </div>
 ````
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/UFOs/blob/main/Resources/Images/1.1.JPG?raw=true)
 
 
 
